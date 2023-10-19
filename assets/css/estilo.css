@@ -1,0 +1,24 @@
+
+h1 {
+    color: rgba(8, 216, 70, 0.6);
+}
+
+.container {
+   align-items: center;
+    background-color: rgb(15, 127, 161);
+    text-align: center;
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 40px;
+    border-radius: 7px ;
+    padding: 10px;
+}
+
+p:hover {
+    color: red;
+}
+
+
+.git {
+    width: 400px;
+}
